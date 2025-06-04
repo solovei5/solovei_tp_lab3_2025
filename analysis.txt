@@ -1,0 +1,99 @@
+Область з найбільшою кількістю переможців (I місце): Kharkiv O.
+Область з найбільшою кількістю призерів (I-III місця): Kyiv C.
+
+Переможці (I місце):
+Kovnatskyi Valerii Oleksandrovych (Kharkiv O.)
+Shevchenko Illia Antonovych (Kharkiv O.)
+Simak Stepan Oleksiiovych (Kyiv C.)
+Yuzkevych Dmytro Mykolaiovych (Zhytomyr O.)
+Strelbytska Kseniia Yevhenivna (Vinnytsia O.)
+Perekopska Daria Andriivna (Dnipropetrovsk O.)
+Sadovnikov Roman Oleksiiovych (Dnipropetrovsk O.)
+Khalin Vladyslav Oleksandrovych (Kharkiv O.)
+Yabchenko Rostyslav Mykolaiovych (Kyiv C.)
+
+Призери (II місце):
+Vyshniak Nazar Serhiiovych (Poltava O.)
+Redenskyi Kyrylo Oleksiiovych (Kyiv C.)
+Bohun Ivan Oleksandrovych (Poltava O.)
+Psiuk Yurii Mykhailovych (Ivano-Frankivsk O.)
+Fedorchuk Maksym Oleksiiovych (Zhytomyr O.)
+Strakhal Dmytro Romanovych (Odesa O.)
+Shyika Marian Olehovych (Lviv O.)
+Kupranets Oleksii Ivanovych (Lviv O.)
+Perebyinis Anton Pavlovych (Khmelnytskyi O.)
+Kholod Andrii Serhiiovych (Khmelnytskyi O.)
+Tataryntsev Hlib Andriiovych (Dnipropetrovsk O.)
+Malyk Kostiantyn Oleksandrovych (Poltava O.)
+Fatieiev Vsevolod Oleksandrovych (Kharkiv O.)
+Kuzma Andrii Oleksandrovych (Zakarpattia O.)
+Moroz Petro Oleksiiovych (Kyiv C.)
+Isak Mykhailo Andriiovych (UPML)
+Rapina Mariia Kostiantynivna (Kharkiv O.)
+Tatarinov Andrii Maksymovych (Poltava O.)
+Zadniprovska Tetiana Vadymivna (Khmelnytskyi O.)
+Opulskyi Anton Ivanovych (Kyiv C.)
+Fedyk Maksym Petrovych (UPML)
+
+Призери (III місце):
+Melnyk Anton Olehovych (Rivne O.)
+Borzenkov Andrii Borysovych (Kharkiv O.)
+Derkach Taras Ihorovych (Volyn O.)
+Chaikivskyi Zakhar Ostapovych (Lviv O.)
+Uleshchenko Fedir Volodymyrovych (UPML)
+Yatsenko Ivan Ivanovych (Vinnytsia O.)
+Yurchenko Viktoriia Andriivna (Zakarpattia O.)
+Harbuza Kyryl Yuriiovych (Kyiv C.)
+Mielamud Roman Ihorovych (Kyiv C.)
+Denha Olesia Oleksandrivna (Poltava O.)
+Kharchenko Yevhenii Oleksandrovych (Kyiv C.)
+Shmalko Nazar Arkadiiovych (Kyiv O.)
+Uleshchenko Ivan Volodymyrovych (Kharkiv O.)
+Ikolenko Oleksii Serhiiovych (Zhytomyr O.)
+Lytvynenko Ivan Yevhenovych (Poltava O.)
+Dakhno Vladyslav Hennadiiovych (Kyiv C.)
+Pichkur Mariia Oleksandrivna (Zhytomyr O.)
+Telychko Mykyta Serhiiovych (Donetsk O.)
+Soroka Dmytro Andriiovych (UPML)
+Ovcharenko Ihnat Olehovych (Kyiv C.)
+Bielov Liubomyr Serhiiovych (Kyiv C.)
+Lynnyk Artemii Oleksandrovych (Mykolaiv O.)
+Mukhamet Tymofii Andriiovych (Odesa O.)
+Lavirko Vladyslav Ruslanovych (Mykolaiv O.)
+Bura Artem Vadymovych (Zhytomyr O.)
+Strakhal Mykhailo Romanovych (Odesa O.)
+Shneider Ivan Vitaliiovych (Zakarpattia O.)
+Kostiukevych Vitalii Oleksandrovych (Volyn O.)
+Novikov Andrii Yuriiovych (UPML)
+Zhurba Mykhailo Olehovych (Kyiv C.)
+Volynets Artem Mykhailovych (Rivne O.)
+Prihunova Mariia Oleksiivna (Vinnytsia O.)
+
+Призери та переможці 11 класу:
+
+Статистика по регіонах:
+Kharkiv O.: 9 учасників
+Kyiv C.: 15 учасників
+Zhytomyr O.: 6 учасників
+Poltava O.: 7 учасників
+Vinnytsia O.: 8 учасників
+Dnipropetrovsk O.: 9 учасників
+Ivano-Frankivsk O.: 6 учасників
+Odesa O.: 4 учасників
+Lviv O.: 6 учасників
+Khmelnytskyi O.: 5 учасників
+Rivne O.: 4 учасників
+Volyn O.: 4 учасників
+UPML: 5 учасників
+Zakarpattia O.: 5 учасників
+Kyiv O.: 3 учасників
+Donetsk O.: 3 учасників
+Mykolaiv O.: 4 учасників
+Cherkasy O.: 3 учасників
+Zaporizhzhia O.: 3 учасників
+Chernivtsi O.: 3 учасників
+Chernihiv O.: 3 учасників
+Sumy O.: 3 учасників
+Kirovohrad O.: 3 учасників
+Ternopil O.: 3 учасників
+Luhansk O.: 1 учасників
